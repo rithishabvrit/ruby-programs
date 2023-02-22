@@ -1,0 +1,3 @@
+puts " enter your name : "
+  2 name=gets
+  3 puts "hi #{name}"
