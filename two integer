@@ -1,0 +1,17 @@
+ =begin       
+  2 Ruby program to add two numbers.
+  3 =end 
+  4 
+  5 # input the numbers and converting 
+  6 # them into integer 
+  7 puts "Enter first value: "
+  8 num1=gets.chomp.to_i
+  9 puts "Enter second value: "
+ 10 num2=gets.chomp.to_i
+ 11 
+ 12 # finding sum 
+ 13 sum=num1+num2
+ 14 puts  "The sum is #{sum}"
+~                                                                                                                                             
+~                                                                                                                                             
+~                 
